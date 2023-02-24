@@ -1,5 +1,4 @@
 <div align="center">
-  <p><img src="http://openlogos.org/logos/sage.jpg" /></p>
   <img src="https://img.shields.io/badge/branch-master-brightgreen.svg">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg">
   <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg">
